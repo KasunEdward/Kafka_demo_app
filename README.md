@@ -1,2 +1,9 @@
-# Kafka_demo_app
-Kafka Demo App
+demoApp1
+=====
+
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile
